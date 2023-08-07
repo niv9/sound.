@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(221, 255, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.header_div{
+  background-color: white;
+  color: red;
+  
+}
+
+.header_div p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    letter-spacing: 3px ; font-size: 20px;
+    font-weight: 800;
+}
+
+.header_div h2{
+    font-size: 40px;
+}
+
+.namediv button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+    width: 150px;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+
+.footerr{
+    position: fixed;
+    color: red;
+    bottom: 0;
+    width:100%;
+    font-size: 25px;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+    line-height: 4;
+    letter-spacing: 2;
+
+}
+
